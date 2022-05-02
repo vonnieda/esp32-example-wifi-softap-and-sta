@@ -46,4 +46,4 @@ I (15363) wifi-softap+sta: SoftAP client connected with IP: 192.168.4.2.
 
 ## Troubleshooting
 
-For any technical queries, please open an [issue](https://github.com/espressif/esp-idf/issues) on GitHub. We will get back to you soon.
+For any technical queries, please open an [issue](https://github.com/vonnieda/esp32-example-wifi-softap-and-sta/issues) on GitHub.
