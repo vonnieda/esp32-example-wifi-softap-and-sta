@@ -1,6 +1,6 @@
 # ESP32 WiFi SoftAP + Station Example
 
-This example shows how to use the Wi-Fi SoftAP functionality of the Wi-Fi driver of ESP for serving as an Access Point and how to use the Wi-Fi Station functionality of the Wi-Fi driver of ESP for connecting to an Access Point at the same time.
+This example shows how to use Wi-Fi SoftAP and Station at the same time.
 
 ## How to use example
 
