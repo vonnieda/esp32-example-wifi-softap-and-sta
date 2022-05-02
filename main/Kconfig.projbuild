@@ -1,0 +1,25 @@
+menu "Example Configuration"
+    config ESP_WIFI_STA_SSID
+        string "WiFi STA SSID"
+        default "my-ssid"
+        help
+            SSID (network name) for the example to connect to.
+
+    config ESP_WIFI_STA_PASSWORD
+        string "WiFi STA Password"
+        default "my-password"
+        help
+            WiFi password (WPA or WPA2) for the example to use.
+
+    config ESP_WIFI_AP_SSID
+        string "WiFi AP SSID"
+        default "my-ap"
+        help
+            SSID (network name) for the Soft AP.
+
+    config ESP_WIFI_AP_PASSWORD
+        string "WiFi AP Password"
+        default "my-ap-password"
+        help
+            WiFi password (WPA or WPA2) for the Soft AP.        
+endmenu
